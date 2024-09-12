@@ -1,13 +1,21 @@
 const projects = [
   {
-    slug: "farmers-market",
-    name: "Farmer's market",
-    description: "Buy some fruits and vegetables",
+    slug: "glass-slide-digitization",
+    name: "Glass Slide Digitization",
+    description: "Digitized some glass slides",
+    categories: ["Media", "Design"],
   },
   {
-    slug: "chess",
-    name: "Chess",
-    description: "Play chess online",
+    slug: "35mm-slide-digitization",
+    name: "35mm Slide Digitization",
+    description: "Digitized some 35mm slides",
+    categories: ["Media"],
+  },
+  {
+    slug: "neighborhood-organization-logo",
+    name: "Neighborhood Organization Logo",
+    description: "Design logo for Neighborhood Organization",
+    categories: ["Design"],
   },
 ];
 
